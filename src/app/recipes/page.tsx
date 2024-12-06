@@ -15,6 +15,7 @@ export default function RecipeReviewCard() {
           src="https://wallpapercave.com/wp/wp9319042.jpg"
           alt="Background"
           className="w-full h-full object-cover top-0 left-0"
+          loading="lazy"
         />
 
         {/* Overlay content */}
