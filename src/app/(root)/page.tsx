@@ -7,13 +7,6 @@ import { recipes } from '@/src/data/recipe';
 import { Recipe } from '@/src/types';
 
 const page = () => {
-  // const router = useRouter();
-
-  // // Redirect to the shop page as soon as the component is mounted
-  // useEffect(() => {
-  //   router.push('/shop'); // Redirects to /shop
-  // }, [router]);
-
   return (
     <div>
       <Navbar />
