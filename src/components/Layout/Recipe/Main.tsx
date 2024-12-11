@@ -54,7 +54,6 @@ const Main = ({ recipe }: { recipe: Recipe }) => {
 
   return (
     <div className="flex flex-col md:flex-row bg-white shadow-lg rounded-lg overflow-hidden">
-      {/* Left section: Recipe details */}
       <div className="md:w-1/2 p-6">
         {/* Breadcrumbs */}
         <Breadcrumbs
